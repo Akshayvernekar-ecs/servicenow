@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-30 05:57:43</sys_created_on>
+        <sys_id>6d845816dbca2300f685d421cf961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_295338_slack_int_slack_events.x_295338_slack_int.slack_events_user</sys_name>
+        <sys_package display_value="Slack Integration" source="x_295338_slack_int">76a56082dbc22300f685d421cf961904</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Slack Integration">76a56082dbc22300f685d421cf961904</sys_scope>
+        <sys_security_acl display_value="x_295338_slack_int_slack_events">25845816dbca2300f685d421cf96192f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6d845816dbca2300f685d421cf961931</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-30 05:57:43</sys_updated_on>
+        <sys_user_role display_value="x_295338_slack_int.slack_events_user" name="x_295338_slack_int.slack_events_user">1d849416dbca2300f685d421cf961948</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
